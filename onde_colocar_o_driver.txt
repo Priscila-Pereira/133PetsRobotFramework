@@ -1,0 +1,14 @@
+Driver: controlar um navegador
+- Muda por navegador (browser). Ex: Chrome, Firefox, Safari etx
+- Muda por versão do navegador. Ex: Chromme 100, Chrome 101 etc
+
+Onde ele deve ficar?
+- Onde colocamos no projeto do Selenium IDE?
+ Dentro da pasta vendors/drivers/chorme/100
+
+Existem 4 formas de instalar o driver:
+1 - Colocar o driver dentro do projeto (como fizemos no Selenium IDE)
+2 - Num local centralizado no computador/servidor
+    --> apontar em Variáveis de Ambiente de Sistema
+3 - Dentro da pasta Python3.../scripts
+4 - Atualização Automática
